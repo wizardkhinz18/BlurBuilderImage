@@ -14,7 +14,7 @@ import android.view.View;
  * Created by :
  * -
  * Jovet Alabastro
- * Android Developer @ DesignBlue Manila Inc.
+ * Android Developer
  * -
  * Date created : 8/19/2015 @ 11:59 AM
  * -
